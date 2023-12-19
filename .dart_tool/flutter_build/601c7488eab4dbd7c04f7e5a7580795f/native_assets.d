@@ -1,0 +1,1 @@
+ D:\\flutter_project\\piciary\\.dart_tool\\flutter_build\\601c7488eab4dbd7c04f7e5a7580795f\\native_assets.yaml: 

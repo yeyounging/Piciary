@@ -1,0 +1,2 @@
+{"logTime": "1219/101748", "correlationVector":"UVUvybf0reIEe52L6l+2J3","action":"SyncServerConnectionManagerRequest", "result":"CONNECTION_UNAVAILABLE", "context":{"error_type":"net_error_code", "error_value":"-3"}}
+{"logTime": "1219/101748", "correlationVector":"idD/pODElxRT1vFOOJf30e.0","action":"FeedSettingFetch_homeCloud", "result":"0", "context":{}}
